@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paragrafos</title>
+</head>
+<body>
+    <h1>Paragrafos e quebra de linhas</h1>
+    <p>Você pode escrever um parágrafo de qualquer jeito. Basta colocar no meio de tags &lt;p&gt; e &lt;/p&gt;<!--LESS THAN/GREATER THAN-->
+    </p> 
+    <p>Se precisar quebrar o texto em algum lugar especifico você pode usar a tag &lt;br&gt;</p>
+    <P>&reg; &euro; &copy; &larr; &uarr; &yen; &rarr; &sum; &darr; &trade; &empty; &Delta; &pound; 🐦&#x1F480; </P>
+</body>
+</html>
